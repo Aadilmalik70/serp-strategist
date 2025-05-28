@@ -1,5 +1,5 @@
 import React from 'react';
-import { FileText, BarChart2, Award, TrendingUp, Download, Target, Eye, Activity } from 'lucide-react';
+import { FileText,  Award, TrendingUp, Download, Target, } from 'lucide-react';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 
 interface NavigationTabsProps {
